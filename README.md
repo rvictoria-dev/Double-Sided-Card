@@ -18,14 +18,14 @@ https://github.com/user-attachments/assets/f4d0d20d-cd97-47db-8a23-e0e43827d45a
 
 ---
 
-⚙️ Tech Stack
+### ⚙️ Tech Stack
 
 - **HTML**
 - **CSS**
 
 ---
 
-🖿 Project structure
+### 🖿 Project structure
 
 ```
 ├── index.html
