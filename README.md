@@ -1,4 +1,4 @@
-# 🃏 Double Sided Card
+# Double Sided Card
 
 ### ₊⊹ About
 
